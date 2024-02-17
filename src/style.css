@@ -2,3 +2,9 @@ body {
   background: lightsalmon;
   text-align: center;
 }
+
+.croissant-img {
+  max-width: 600px;
+  display: block;
+  margin: 0 auto;
+}
